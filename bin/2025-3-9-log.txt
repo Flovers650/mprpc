@@ -1,0 +1,68 @@
+23:7:45 =>[info]service_name: UserServiceRpc
+23:7:45 =>[info]method_name: login
+23:16:46 =>[info]service_name: UserServiceRpc
+23:16:46 =>[info]method_name: login
+23:16:55 =>[info]service_name: UserServiceRpc
+23:16:55 =>[info]method_name: login
+23:17:20 =>[info]service_name: UserServiceRpc
+23:17:20 =>[info]method_name: login
+23:17:41 =>[info]service_name: UserServiceRpc
+23:17:41 =>[info]method_name: login
+23:19:20 =>[info]service_name: UserServiceRpc
+23:19:20 =>[info]method_name: login
+23:19:44 =>[info]service_name: UserServiceRpc
+23:19:44 =>[info]method_name: login
+23:24:38 =>[info]service_name: UserServiceRpc
+23:24:38 =>[info]method_name: login
+23:37:15 =>[info]func=updateChannel => fd=5 events=3 index=-1 
+
+23:37:15 =>[info]service_name: UserServiceRpc
+23:37:15 =>[info]method_name: login
+23:37:15 =>[info]func=updateChannel => fd=13 events=3 index=-1 
+
+23:37:15 =>[info]EventLoop 0x755f9cbfabc0 start looping 
+
+23:37:15 =>[info]func=updateChannel => fd=15 events=3 index=-1 
+
+23:37:15 =>[info]EventLoop 0x755f97ffebc0 start looping 
+
+23:37:15 =>[info]func=updateChannel => fd=17 events=3 index=-1 
+
+23:37:15 =>[info]EventLoop 0x755f977fdbc0 start looping 
+
+23:37:15 =>[info]func=updateChannel => fd=19 events=3 index=-1 
+
+23:37:15 =>[info]EventLoop 0x755f96ffcbc0 start looping 
+
+23:37:15 =>[info]func=updateChannel => fd=7 events=3 index=-1 
+
+23:37:15 =>[info]EventLoop 0x7ffcb96ae7b0 start looping 
+
+23:37:15 =>[info]channel handleEvent revents:1
+
+23:37:23 =>[info]TcpServer::newConnection [RpcProvider] - new connection [RpcProvider-127.0.0.1:8000#1] from 127.0.0.1:55874 
+
+23:37:23 =>[info]TcpConnection::ctor[RpcProvider-127.0.0.1:8000#1] at fd=20 
+
+23:37:23 =>[info]channel handleEvent revents:1
+
+23:37:23 =>[info]func=updateChannel => fd=20 events=3 index=-1 
+
+23:37:23 =>[info]channel handleEvent revents:1
+
+23:37:23 =>[info]channel handleEvent revents:17
+
+23:37:23 =>[info]fd=20 state=3 
+
+23:37:23 =>[info]func=updateChannel => fd=20 events=0 index=1 
+
+23:37:23 =>[info]channel handleEvent revents:1
+
+23:37:23 =>[info]TcpServer::removeConnectionInLoop [RpcProvider] - connection RpcProvider-127.0.0.1:8000#1 
+
+23:37:23 =>[info]func=removeChannel => fd=20 
+
+23:37:23 =>[info]TcpConnection::dtor[RpcProvider-127.0.0.1:8000#1] at fd=20 state=0 
+
+23:37:23 =>[info]channel handleEvent revents:1
+
