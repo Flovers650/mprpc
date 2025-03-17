@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/provider.dir/userservice.cpp.o CMakeFiles/provider.dir/__/user.pb.cc.o -o /home/muning/mprpc/bin/provider   -L/home/muning/mprpc/lib  -Wl,-rpath,/home/muning/mprpc/lib ../../src/libmprpc.a -lprotobuf -lmymuduo -lpthread -lzookeeper_mt 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/consumer.dir/calluserservice.cpp.o CMakeFiles/consumer.dir/__/user.pb.cc.o -o /home/muning/mprpc/bin/consumer   -L/home/muning/mprpc/lib  -Wl,-rpath,/home/muning/mprpc/lib ../../src/libmprpc.a -lprotobuf -lmymuduo -lpthread -lzookeeper_mt 
